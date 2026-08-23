@@ -1,5 +1,5 @@
 {
-  "rewrite": [
+  "rewrites": [
     {
       "source": "/fal_coders",
       "destination": "/a.json"
